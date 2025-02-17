@@ -9,9 +9,9 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné de programmation qui app
 
 🛠 Mes projets
 
-📌 InitC_V1 → Générateur de projets C avec Makefile.\n
-🎮 OpenC_SDL2_V2 → Générateur de projets SDL2 avec une interface graphique.
-⌨ BlocKeyboard → Bloqueur de clavier/paver tactile PC portable pour une utilisation contrôlée.
+    📌 InitC_V1 → Générateur de projets C avec Makefile.
+    🎮 OpenC_SDL2_V2 → Générateur de projets SDL2 avec une interface graphique.
+    ⌨ BlocKeyboard → Bloqueur de clavier/paver tactile PC portable pour une utilisation contrôlée.
 
 📢 Vos retours sont importants !
 
