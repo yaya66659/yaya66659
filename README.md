@@ -9,9 +9,13 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné de programmation qui app
 
 🛠 Mes projets
 
-    📌 InitC_V1 → Générateur de projets C avec Makefile.
-    🎮 OpenC_SDL2_V2 → Générateur de projets SDL2 avec une interface graphique.
-    ⌨ BlocKeyboard → Bloqueur de clavier/paver tactile PC portable pour une utilisation contrôlée.
+  📌 [InitC_V1](https://github.com/yaya66659/InitC_V1) → Générateur de projets C avec Makefile.
+        
+  🎮[ OpenC_SDL2_V2](https://github.com/yaya66659/OpenC_SDL2_V2) → Générateur de projets SDL2 avec une interface graphique.
+    
+  ⌨ [BlocKeyboard](https://github.com/yaya66659/BlocKeyboard) → Bloqueur de clavier/paver tactile PC portable Ce projet est      une alternative logicielle, pour désactiver un clavier défectueux sans ouvrir le PC,
+  et ensuite utiliser un clavier et un souri USB.
+   
 
 📢 Vos retours sont importants !
 
