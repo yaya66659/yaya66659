@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/yaya66659/yaya66659/blob/main/logoGithubYaya.jpg" alt="Logo Yaya" width="200">
+</p>
 
-<!--
-**yaya66659/yaya66659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Salut, moi c'est Yaya !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bienvenue sur mon profil GitHub ! Je suis un passionné de programmation qui apprend chaque jour. Je ne suis pas un professionnel, mais j’aime explorer et créer des petits projets utiles( ou pas!) en C, Java et un peu en Python. Mon objectif est d'améliorer mes compétences en développant des outils pratiques et en échangeant avec d'autres développeurs.
+
+🛠 Mes projets
+
+📌 InitC_V1 → Générateur de projets C avec Makefile.
+🎮 OpenC_SDL2_V2 → Générateur de projets SDL2 avec une interface graphique.
+⌨ BlocKeyboard → Bloqueur de clavier/paver tactile PC portable pour une utilisation contrôlée.
+
+📢 Vos retours sont importants !
+
+Comme je suis en apprentissage, toutes les suggestions et critiques constructives sont les bienvenues ! Si vous testez l’un de mes projets, n’hésitez pas à laisser un avis, signaler un bug ou proposer des améliorations. Cela m’aidera à progresser et à rendre mes outils plus utiles.
+
+📫 Me contacter
+
+Si vous avez des conseils, des retours ou simplement envie d’échanger, vous pouvez me contacter via :
+📧 [yann55446@gmail.com]
+
+Merci d'avoir pris le temps de visiter mon profil ! 😊🚀
+
+
