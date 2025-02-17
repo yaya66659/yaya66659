@@ -14,7 +14,7 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné de programmation qui app
   🎮[ OpenC_SDL2_V2](https://github.com/yaya66659/OpenC_SDL2_V2) → Générateur de projets SDL2 avec une interface graphique.
     
   ⌨ [BlocKeyboard](https://github.com/yaya66659/BlocKeyboard) → Bloqueur de clavier/paver tactile PC portable Ce projet est      une alternative logicielle, pour désactiver un clavier défectueux sans ouvrir le PC,
-  et ensuite utiliser un clavier et un souri USB.
+  et ensuite utiliser un clavier et une souri USB.
    
 
 📢 Vos retours sont importants !
