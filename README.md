@@ -5,6 +5,8 @@
 
 👋 Salut, moi c'est Yaya !
 
+je commence par un grand merci a jason champagne de formation video sur Youtube :[FormationVideo](https://www.youtube.com/@formation-video)
+
 Bienvenue sur mon profil GitHub ! Je suis un passionné de programmation qui apprend chaque jour. Je ne suis pas un professionnel, mais j’aime explorer et créer des petits projets utiles( ou pas!) en C, Java et un peu en Python. Mon objectif est d'améliorer mes compétences en développant des outils pratiques et en échangeant avec d'autres développeurs.
 
 🛠 Mes projets
