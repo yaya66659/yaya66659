@@ -14,10 +14,17 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné de programmation qui app
 
   📌 [InitC_V1](https://github.com/yaya66659/InitC_V1) → Générateur de projets C avec Makefile.
         
-  🎮[ OpenC_SDL2_V2](https://github.com/yaya66659/OpenC_SDL2_V2) → Générateur de projets SDL2 avec une interface graphique.
+  📌[ OpenC_SDL2_V2](https://github.com/yaya66659/OpenC_SDL2_V2) → Générateur de projets SDL2 avec une interface graphique.
     
   ⌨ [BlocKeyboard](https://github.com/yaya66659/BlocKeyboard) → Bloqueur de clavier/paver tactile PC portable Ce projet est      une alternative logicielle, pour désactiver un clavier défectueux sans ouvrir le PC,
   et ensuite utiliser un clavier et une souri USB.
+
+🎮[The KIller](https://github.com/yaya66659/The-Killer) → Jeu de dés stratégique sur Android
+
+**THE KILLER** est une application mobile Android inspirée d’un jeu joué dans une caravane entre amis.  
+Simple à apprendre mais offrant des choix tactiques, ce jeu de dés vous plonge dans des parties intenses où chaque lancer compte.
+
+  
    
 
 📢 Vos retours sont importants !
