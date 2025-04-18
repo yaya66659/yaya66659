@@ -27,6 +27,9 @@ Simple à apprendre mais offrant des choix tactiques, ce jeu de dés vous plonge
 📌[PushMe](https://github.com/yaya66659/PushMe/tree/main)Compteur de click sur un bouton en architecture MVC.
 Ce projet Android a été développé dans le but de montrer l'application de l'architecture MVC (Modèle - Vue - Contrôleur) dans un projet Android Studio.
 
+📌[converter-mp3](https://github.com/yaya66659/converter-mp3)
+Une commande console pour convertir rapidement des fichiers audio/vidéo en MP3 à l’aide de ffmpeg, codée en C pour Windows.
+
 ---  
 
 📢 Vos retours sont importants !
